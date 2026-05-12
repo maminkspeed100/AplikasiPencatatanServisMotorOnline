@@ -1,5 +1,5 @@
 // GANTI DENGAN URL WEB APP ANDA
-const SHEET_URL = "https://script.google.com/macros/s/AKfycbyck83UuqzriflSGq3swPuwy5i4x_z3A8YTXrqXok05WPv8uhnNGLgVtg9VcQ3YlX3l/exec";
+const SHEET_URL = "https://script.google.com/macros/s/AKfycbygFdU3wDmEQn-mPPkbWbhilHnIietJPhE1okBlVHe8renwJ3lE4egx2BhQB22e6mhe/exec";
 
 const initIcons = () => lucide.createIcons();
 
